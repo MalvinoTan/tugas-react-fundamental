@@ -1,9 +1,9 @@
-.todo-item {
+.todo_item {
     margin-top: 3rem;
     list-style-type: none;
 }
 
-.todo-item span {
+.todo_item span {
     padding: 1em;
     border: 1px solid black;
     border-radius: 30px;

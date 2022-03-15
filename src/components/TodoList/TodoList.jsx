@@ -1,9 +1,10 @@
-import './TodoList.css';
+/** Style */
+import styles from './TodoList.module.css';
 import { TodoItems } from '../TodoItems/TodoItems';
 
 const TodoList = () => {
     return (
-        <ul className="todo-list">
+        <ul className={styles.todo_list}>
             {TodoItems}
         </ul>
     );
