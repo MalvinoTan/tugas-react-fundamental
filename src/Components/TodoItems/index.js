@@ -1,5 +1,5 @@
 /** Style */
-import styles from './TodoItems.module.css';
+import styles from './style.module.css';
 
 /** Data Todos */
 import { dataTodos } from '../../dataTodos'

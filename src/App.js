@@ -1,7 +1,7 @@
 /** Style */
 import './App.css';
-import Header from './Components/Header/Header';
-import TodoList from './Components/TodoList/TodoList';
+import Header from './Components/Header';
+import TodoList from './Components/TodoList';
 
 function App() {
   return (

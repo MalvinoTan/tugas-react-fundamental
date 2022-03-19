@@ -1,6 +1,6 @@
 /** Style */
-import styles from './TodoList.module.css';
-import { TodoItems } from '../TodoItems/TodoItems';
+import styles from './style.module.css';
+import { TodoItems } from '../TodoItems/index';
 
 const TodoList = () => {
     return (

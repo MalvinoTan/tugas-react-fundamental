@@ -1,5 +1,5 @@
 /** Style */
-import './Header.module.css';
+import './style.module.css';
 
 const Header = (props) => {
     return (
